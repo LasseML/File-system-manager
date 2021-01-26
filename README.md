@@ -17,3 +17,7 @@ Besides that the program can read a text file, find the size of it, count the am
 ![Running the class files in out](/images/runJava.png)
 
 ![Having problems making a jar file](/images/jarNotWorking.png)
+
+
+Stuff that should be worked a bit on:
+* The program lacks a bit of validation on user input
