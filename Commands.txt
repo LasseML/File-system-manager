@@ -1,0 +1,2 @@
+jar cfe FsmProgram.jar Main *.class fileHandler/*.class logger/*.class
+javac -d out src/*.java src/fileHandler/*.java src/logger/*.java

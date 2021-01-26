@@ -1,0 +1,7 @@
+2021-01-26T03:00:16.400050100 The name of the file is: dracula.txt Took: 0ms to execute 
+2021-01-26T03:04:14.169653400 The name of the file is: dracula.txt Took: 0ms to execute 
+2021-01-26T03:04:14.827494800 The size of the file is: 862kB Took: 0ms to execute 
+2021-01-26T03:04:15.548827300 The number of lines in the file is: 15973 Took: 23ms to execute 
+2021-01-26T03:04:19.808759 The file contained the word dracula Took: 2ms to execute 
+2021-01-26T03:04:23.988241900 The file contained the word dracula 38 times Took: 171ms to execute 
+2021-01-26T03:23:21.392549500 The size of the file is: 862kB Took: 0ms to execute 
