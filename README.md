@@ -13,10 +13,9 @@ Besides that the program can read a text file, find the size of it, count the am
 
 ![Running javac](/images/javac.png)
 
+![Making the jar file](/images/jarWorking.png)
 
-![Running the class files in out](/images/runJava.png)
-
-![Having problems making a jar file](/images/jarNotWorking.png)
+![Running the jar file in out](/images/jarRun.png)
 
 
 Stuff that should be worked a bit on:
