@@ -1,1 +1,4 @@
 2021-01-26T04:32:49.160308500 The size of the file is: 862kB Took: 5ms to execute 
+2021-01-26T13:38:33.041057100 The file contained the word dracula Took: 4ms to execute 
+2021-01-26T13:39:47.392636900 The size of the file is: 862kB Took: 5ms to execute 
+2021-01-26T13:59:28.854709600 The size of the file is: 862kB Took: 5ms to execute 
